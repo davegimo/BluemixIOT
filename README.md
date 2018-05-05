@@ -16,4 +16,6 @@ The code is composed by:
 Linkedin: ([Davide Gimondo](https://www.linkedin.com/in/davegimo/))
 
 
+## Presentation
 
+You can check my SlideShare ([here](([Davide Gimondo](https://www.linkedin.com/in/davegimo/))))
