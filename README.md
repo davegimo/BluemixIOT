@@ -17,5 +17,4 @@ Linkedin: ([Davide Gimondo](https://www.linkedin.com/in/davegimo/))
 
 
 ## Presentation
-
-You can check my SlideShare ([here](([Davide Gimondo](https://www.linkedin.com/in/davegimo/))))
+You can check my SlideShare ([here](https://www.slideshare.net/DavideGimondo/ibm-watson-iot)
