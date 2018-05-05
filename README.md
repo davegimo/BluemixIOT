@@ -13,7 +13,7 @@ The code is composed by:
 
 
 ## Contacts
-Linkedin: ([Davide Gimondo](https://www.linkedin.com/in/davegimo/))
+Linkedin: [Davide Gimondo](https://www.linkedin.com/in/davegimo/)
 
 
 ## Presentation
